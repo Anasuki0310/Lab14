@@ -55,3 +55,4 @@ void findLocalMax(const double A[][N], bool B[][N]){
 	for(int M=0;M<N;M++) if(true) B[M][0]=false;
 	for(int M=0;M<N;M++) if(true) B[M][N-1]=false;
 }
+
